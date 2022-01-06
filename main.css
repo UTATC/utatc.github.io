@@ -1,0 +1,15 @@
+header {
+  background: url("images/banner.png") no-repeat;
+}
+
+body {
+  background-color: pink;
+}
+
+/* .hello {
+  font-weight: bold;
+} */
+
+body ul li {
+  font-weight: lighter;
+}
