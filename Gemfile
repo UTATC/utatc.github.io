@@ -8,10 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+# gem "minima", "~> 2.5"
 
 # Current theme I'm using
-gem "jekyll-theme-yat"
+# gem "jekyll-theme-yat"
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -30,3 +30,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+gem "jekyll-seo-tag", "~> 2.1"
+gem "jekyll-sitemap", "~> 1.3"
+gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-spaceship", "~> 0.2"
