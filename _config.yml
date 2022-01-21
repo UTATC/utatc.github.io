@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: jekyll-theme-yat
+theme: null # to prevent GitHub from auto-adding style.css
 # remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
